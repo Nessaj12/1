@@ -9,7 +9,7 @@
 	<body class=body>		
 		<div class=form align="center">
 			<p class=formtext1>Введите массив</p>
-			<p class=formtext2>(0,1,-2...n)</p>
+			<p class=formtext2>0,1,-2...n</p>
 			<form action="index.php" method="post" name="form1" target="_self"> 				
 				<p><input type="text" name="1"><Br></p>
 				<p><input class=button type="submit" name="2"><Br></p>
